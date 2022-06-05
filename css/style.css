@@ -78,6 +78,7 @@ a {
 	left: 50%;
 	top: 105px;
 	transform: translateX(-50%);
+	padding: 10px;
 }
 .navbar-dark .navbar-nav .nav-item {
 	margin: 0px 15px;
@@ -738,3 +739,12 @@ a {
 	} 
 
 }
+
+.invalid {
+	border-color: red;
+}
+
+.text-muted{
+	display: none;
+}
+
